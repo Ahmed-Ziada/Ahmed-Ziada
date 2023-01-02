@@ -1,4 +1,4 @@
-[![MasterHead](https://websitesapi.dataart.com/media/0jfhnmep/business-analysts-different-types-in-the-team-social.png)
+![MasterHead](https://websitesapi.dataart.com/media/0jfhnmep/business-analysts-different-types-in-the-team-social.png)
 <h1 align="center">Hi 👋, I'm Ahmed Ziada</h1>
 <h3 align="center">A passionate Business Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
